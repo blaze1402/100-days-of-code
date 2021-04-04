@@ -23,3 +23,11 @@
 **Thoughts** It was difficult to apply the AsyncTaskLoader for better efficiency of the App. Need a bit more practice with APIs and multithreaded processes.
 
 **Link(s) to work** [QuakeReport](https://github.com/blaze1402/QuakeReport)
+
+### Day 3: April 04, 2021
+
+**Today's Progress**: Trying to add a preference setting to the QuakeReport App. 
+
+**Thoughts** Need to work more on it to make it work properly.
+
+**Link(s) to work** [QuakeReport](https://github.com/blaze1402/QuakeReport)
