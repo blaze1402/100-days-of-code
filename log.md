@@ -31,3 +31,11 @@
 **Thoughts** Need to work more on it to make it work properly.
 
 **Link(s) to work** [QuakeReport](https://github.com/blaze1402/QuakeReport)
+
+### Day 4: April 05, 2021
+
+**Today's Progress**: Learning about data persistence in android.
+
+**Thoughts** Learning about data persistence in android is a critical component of any app.
+
+**Link(s) to work** [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
