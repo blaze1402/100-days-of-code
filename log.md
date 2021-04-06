@@ -22,7 +22,7 @@
 
 **Thoughts** It was difficult to apply the AsyncTaskLoader for better efficiency of the App. Need a bit more practice with APIs and multithreaded processes.
 
-**Link(s) to work** [QuakeReport](https://github.com/blaze1402/QuakeReport)
+**Link(s) to work** [Quake Report App](https://github.com/blaze1402/QuakeReport)
 
 ### Day 3: April 04, 2021
 
@@ -30,7 +30,7 @@
 
 **Thoughts** Need to work more on it to make it work properly.
 
-**Link(s) to work** [QuakeReport](https://github.com/blaze1402/QuakeReport)
+**Link(s) to work** [Quake Report App](https://github.com/blaze1402/QuakeReport)
 
 ### Day 4: April 05, 2021
 
@@ -39,3 +39,11 @@
 **Thoughts** Learning about data persistence in android is a critical component of any app.
 
 **Link(s) to work** [Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
+
+### Day 5: April 06, 2021
+
+**Today's Progress**: Building a initial build of Pets App which displays a list of pets and their related data that the user inputs by a SQlite Database. 
+
+**Thoughts** Any initial build requires the UI design phase which I love. 
+
+**Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
