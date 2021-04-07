@@ -47,3 +47,11 @@
 **Thoughts** Any initial build requires the UI design phase which I love. 
 
 **Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
+
+### Day 6: April 07, 2021
+
+**Today's Progress**: Added a Contract class and Database helper class to create an SQLite Database and verified it with a temporary helper method. 
+
+**Thoughts**  It's interesting to work on SQLite Database and store persistence data on database.
+
+**Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
