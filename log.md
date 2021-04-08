@@ -55,3 +55,11 @@
 **Thoughts**  It's interesting to work on SQLite Database and store persistence data on database.
 
 **Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
+
+### Day 7: April 08, 2021
+
+**Today's Progress**: Added functions to insert data and read data from database and show it in the activity screen. 
+
+**Thoughts**  It is amazing to work with databases, learning many new things like SQL commands and more. Need to improve UI to show the data from the database. 
+
+**Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
