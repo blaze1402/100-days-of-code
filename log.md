@@ -63,3 +63,11 @@
 **Thoughts**  It is amazing to work with databases, learning many new things like SQL commands and more. Need to improve UI to show the data from the database. 
 
 **Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
+
+### Day 8: April 09, 2021
+
+**Today's Progress**: Added a Content Provider for the app to make data validation.
+
+**Thoughts**  Still learning about content provider and need to add content URIs in the app. 
+
+**Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
