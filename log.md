@@ -71,3 +71,9 @@
 **Thoughts**  Still learning about content provider and need to add content URIs in the app. 
 
 **Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
+
+### Day 9: April 10, 2021
+
+**Today's Progress**: Added Content URIs.
+
+**Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
