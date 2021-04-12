@@ -84,3 +84,10 @@
 
 **Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
 
+### Day 11: April 12, 2021
+
+**Today's Progress**: Added Query method and insert method to insert and retrieve data from the database via PetProvider.
+
+**Thoughts**  It is a good way to use query and insert method via PetProvider method. It makes the app faster and cleaner.
+
+**Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
