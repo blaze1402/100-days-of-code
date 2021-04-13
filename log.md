@@ -91,3 +91,12 @@
 **Thoughts**  It is a good way to use query and insert method via PetProvider method. It makes the app faster and cleaner.
 
 **Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
+
+### Day 12: April 13, 2021
+
+**Today's Progress**: Added update method and delete method to update and delete data from the database while also adding data validation.
+
+**Thoughts**  It is a good way to use update and delete method while adding data validation to prevent bad data from entering our database.
+
+**Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
+
