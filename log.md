@@ -100,3 +100,10 @@
 
 **Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
 
+### Day 13: April 14, 2021
+
+**Today's Progress**: Added list view instead temporary text view, used the PetCursorAdapter to display the data in the list view.
+
+**Thoughts**  Improved the UI a bit and added a CursorAdapter to fetch and display the data from the cursor.
+
+**Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
