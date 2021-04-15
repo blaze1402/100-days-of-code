@@ -107,3 +107,11 @@
 **Thoughts**  Improved the UI a bit and added a CursorAdapter to fetch and display the data from the cursor.
 
 **Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
+
+### Day 14: April 15, 2021
+
+**Today's Progress**: Added a empty view so the app UI looks better when the database is empty.
+
+**Thoughts**  Improved the UI with the empty view by adding a image and some text views.
+
+**Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
