@@ -115,3 +115,10 @@
 **Thoughts**  Improved the UI with the empty view by adding a image and some text views.
 
 **Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
+
+### Day 15: April 16, 2021
+
+**Today's Progress**: Learning about the cursor loader in android.
+
+**Link(s) to work** [Pets App](https://github.com/blaze1402/Pets)
+
